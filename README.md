@@ -1,1 +1,3 @@
-# SMS-DDOS-TEAM-AiO-MAHT-ZTH-
+# SMS-DDOS tool
+# (1) ရပ်ကွက်ထဲ sound box များ ဖွင့်ခြင်းကို ddos sms ဖြင့်အနှောက်ရှက်ပြုရန်
+# (2) ကျန်းမာချမ်းသာ ပါစေ
